@@ -1,4 +1,3 @@
-import { IAppState } from './app.module';
 import { Component } from '@angular/core';
 import { select, NgRedux } from '@angular-redux/store';
 
