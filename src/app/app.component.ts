@@ -16,4 +16,5 @@ export class AppComponent {
     onClick() {
         this.ngRedux.dispatch({ type: INCREMENT });
     }
+
 }
